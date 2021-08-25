@@ -1,3 +1,3 @@
 # Learn
 
-Trying is everything
+Trying is everything!
