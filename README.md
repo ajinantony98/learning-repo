@@ -4,4 +4,4 @@ Trying is everything!
 
 ## Understand
 
-watch and learn.
+Watch and learn.
